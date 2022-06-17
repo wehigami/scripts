@@ -2,3 +2,5 @@
 .env
 .vscode/
 cout/
+test.cpp
+test.exe
